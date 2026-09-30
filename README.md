@@ -1,8 +1,8 @@
-# 🌍 SISMO·MONITOR
+# 🌍 Monitor Sismico 
 
 **Panel de monitoreo sísmico mundial en tiempo real** — globo 3D interactivo alimentado por USGS, FUNVISIS (Venezuela) y EMSC, con alertas configurables, modo bilingüe e instalable como app.
 
-**▶ Demo en vivo: https://ehyenmanft.github.io/monitor-sismico/**
+**▶ Demo en vivo: 
 **📣 Canal de avisos en Telegram: https://t.me/michihub_oficial**
 
 > Este proyecto nació de la experiencia del terremoto de La Guaira de 2026. Es la herramienta que su autor hubiera querido tener ese día: gratuita, en español, y con los datos sísmicos venezolanos que ninguna app internacional muestra.
